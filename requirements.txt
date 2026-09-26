@@ -1,6 +1,6 @@
 streamlit
-numpy
-pillow
-pandas
-matplotlib
 tensorflow
+numpy
+pandas
+pillow
+altair
